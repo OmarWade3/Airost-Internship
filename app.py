@@ -10,7 +10,7 @@ from collections import Counter
 import sqlite3
 
 # Configuration for Roboflow API
-ROBOFLOW_API_KEY = "LbB3PvmuIQB1UhGrQeCT"
+ROBOFLOW_API_KEY = "YOUR_API_KEY"
 ROBOFLOW_MODEL = "airost-internship-project/4"
 ROBOFLOW_SIZE = 640
 
